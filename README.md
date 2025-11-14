@@ -1,4 +1,4 @@
-# AAIDC Module 2: Multi-Agent System for AI Project Analysis
+# AAIDC Module 2: Architecting Agentic AI Systems
 
 ## 🧠 Project Overview
 
